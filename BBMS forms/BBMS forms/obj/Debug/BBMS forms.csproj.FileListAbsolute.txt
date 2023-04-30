@@ -1,0 +1,32 @@
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\bin\Debug\BBMS forms.exe.config
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\bin\Debug\BBMS forms.exe
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\bin\Debug\BBMS forms.pdb
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\obj\Debug\BBMS forms.csproj.AssemblyReference.cache
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\obj\Debug\BBMS forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.Properties.Resources.resources
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\obj\Debug\BBMS forms.csproj.GenerateResource.cache
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\obj\Debug\BBMS forms.csproj.CoreCompileInputs.cache
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\obj\Debug\BBMS forms.exe
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\obj\Debug\BBMS forms.pdb
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.Donorhome.resources
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.Login.resources
+C:\Users\Jayasekara\Desktop\BBMS\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.SignUp.resources
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\bin\Debug\BBMS forms.exe.config
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\bin\Debug\BBMS forms.exe
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\bin\Debug\BBMS forms.pdb
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS forms.csproj.AssemblyReference.cache
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.Donorhome.resources
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.Login.resources
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.SignUp.resources
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.Properties.Resources.resources
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS forms.csproj.GenerateResource.cache
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS forms.csproj.CoreCompileInputs.cache
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS forms.exe
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS forms.pdb
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.Doctor.resources
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.Main_Nurse.resources
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.ManagerDashboard.resources
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.Nurse.resources
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.PHI.resources
+C:\Users\Jayasekara\Desktop\BBMS - Copy\BBMS forms\BBMS forms\obj\Debug\BBMS_forms.RecepientHome.resources
